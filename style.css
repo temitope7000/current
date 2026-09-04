@@ -1,6 +1,5 @@
-body {
+body h2{
     margin-bottom: 40px;
-    background-color: red;
 }
 .denis{
     display: flex;

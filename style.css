@@ -1,0 +1,19 @@
+body h2{
+    margin-bottom: 40px;
+}
+.denis{
+    display: flex;
+    gap: 15px;
+}
+.oge{
+    display: flex;
+    gap: 15px;
+}
+.satya{
+    display: flex;
+    gap: 15px;
+}
+.buhari{
+    display: flex;
+    gap: 15px;
+}

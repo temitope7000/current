@@ -17,3 +17,13 @@ body h2{
     display: flex;
     gap: 15px;
 }
+
+/* MEDIA QUERY FOR RESPONSIVENESS */
+@media(max-width: 600px){
+    .denis,
+    .oge,
+    .satya,
+    .buhari{
+        display: block;
+    }
+}

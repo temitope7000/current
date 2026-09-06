@@ -27,3 +27,11 @@ body h2{
         display: block;
     }
 }
+@media(max-width: 600px) {
+    .Mark,
+    .satya,
+    .satya,
+    .Mayer{
+        display: block;
+    }  
+}
